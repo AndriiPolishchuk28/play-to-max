@@ -28,7 +28,6 @@ class TableGame {
   }
   addId() {
     cells.forEach((elem) => {
-      console.log("ed");
       this.id++;
       elem.id = `${this.id}`;
     });

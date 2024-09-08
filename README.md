@@ -6,7 +6,7 @@
 
 ### Запуск через GitHub Pages
 
-Проєкт можна переглядати онлайн. Відкрийте наступну [посилання](https://your-username.github.io/your-repo-name) для доступу до розгорнутої версії.
+Проєкт можна переглядати онлайн. Відкрийте наступне [посилання](https://andriipolishchuk28.github.io/play-to-max/)
 
 ### Локальний запуск
 
@@ -15,5 +15,5 @@
 1. **Склонуйте репозиторій**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AndriiPolishchuk28/play-to-max.git
    ```
